@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raghavraghu2kk.io/ReactCalculator/static/css/main.e5398448.css",
+    "main.js": "/raghavraghu2kk.io/ReactCalculator/static/js/main.b6fa1df0.js",
+    "index.html": "/raghavraghu2kk.io/ReactCalculator/index.html",
+    "main.e5398448.css.map": "/raghavraghu2kk.io/ReactCalculator/static/css/main.e5398448.css.map",
+    "main.b6fa1df0.js.map": "/raghavraghu2kk.io/ReactCalculator/static/js/main.b6fa1df0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5398448.css",
+    "static/js/main.b6fa1df0.js"
+  ]
+}
